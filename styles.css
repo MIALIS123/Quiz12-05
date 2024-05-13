@@ -12,7 +12,12 @@
 
 }
 .primero {
-    width: ;
+    width:30% ;
+    padding: 25px 10px;
+    border: 2px solid red;
 }
 .segundo {
+    width:30% ;
+    padding: 25px 10px;
+    border: 2px solid red;
 }
